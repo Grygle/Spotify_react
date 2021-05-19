@@ -2,3 +2,4 @@
 .DS_Store
 spotify-app/yarn.lock
 spotify-app/package-lock.json
+node_modules
