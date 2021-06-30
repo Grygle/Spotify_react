@@ -3,3 +3,6 @@
 spotify-app/yarn.lock
 spotify-app/package-lock.json
 node_modules
+server/.env
+server/package-lock.json
+spotify-app/yarn.lock
